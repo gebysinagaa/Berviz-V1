@@ -1,0 +1,20 @@
+{
+  "name": "Berviz Assistant",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.11.0",
+    "chalk": "^5.6.0",
+    "child_process": "^1.0.2",
+    "crypto": "^1.0.1",
+    "ffmpeg": "^0.0.4",
+    "form-data": "^4.0.4",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^2.7.0",
+    "path": "^0.12.7",
+    "telegraf": "^4.16.3"
+  }
+}
